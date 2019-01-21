@@ -3,8 +3,8 @@
     xmlns:motion="http://schemas.android.com/apk/res-auto">
 
     <Transition
-        motion:constraintSetStart="@layout/start_layout"
-        motion:constraintSetEnd="@layout/end_layout"
+        motion:constraintSetStart="@layout/basic_start_layout"
+        motion:constraintSetEnd="@layout/basic_end_layout"
         motion:duration="1000">
         <OnSwipe
             motion:touchAnchorId="@+id/v1"

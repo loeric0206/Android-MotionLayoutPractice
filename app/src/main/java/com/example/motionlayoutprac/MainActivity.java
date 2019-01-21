@@ -4,7 +4,6 @@ import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
-import android.widget.Button;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -24,12 +23,12 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void second(View view) {
-        Intent intent = new Intent(this, Second.class);
+        Intent intent = new Intent(this, Basic2.class);
         startActivity(intent);
     }
 
     public void third(View view) {
-        Intent intent = new Intent(this, Third.class);
+        Intent intent = new Intent(this, BasicChangeColor.class);
         startActivity(intent);
     }
 

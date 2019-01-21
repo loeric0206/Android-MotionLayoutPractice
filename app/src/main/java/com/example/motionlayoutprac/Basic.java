@@ -8,7 +8,7 @@ public class Basic extends AppCompatActivity {
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.startend_m_layout);
+        setContentView(R.layout.basic_startend_m_layout);
 
     }
 }

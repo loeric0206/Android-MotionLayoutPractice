@@ -17,8 +17,8 @@
             </intent-filter>
         </activity>
         <activity android:name=".Basic" />
-        <activity android:name=".Second" />
-        <activity android:name=".Third" />
+        <activity android:name=".Basic2" />
+        <activity android:name=".BasicChangeColor" />
         <activity android:name=".Four" />
     </application>
 
