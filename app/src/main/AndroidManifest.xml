@@ -19,7 +19,8 @@
         <activity android:name=".Basic" />
         <activity android:name=".Basic2" />
         <activity android:name=".BasicChangeColor" />
-        <activity android:name=".Four" />
+        <activity android:name=".ImageFilterViewOne" />
+        <activity android:name=".ImageFilterViewTwo" />
     </application>
 
 </manifest>
